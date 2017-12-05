@@ -1,0 +1,11 @@
+- - DAY 1 OVER - -
+- New letter -
+Source: Berlin
+Destination: Xanadu
+- Rejected letter -
+Source: Berlin
+- New package -
+Source: Berlin
+Destination: Xanadu
+- Rejected package -
+Source: Berlin

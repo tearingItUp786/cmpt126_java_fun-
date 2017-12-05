@@ -1,0 +1,6 @@
+- - DAY 1 OVER - -
+- New package -
+Source: Nilreb
+Destination: Berlin
+- Rejected package -
+Source: Nilreb

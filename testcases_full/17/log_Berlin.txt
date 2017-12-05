@@ -1,0 +1,16 @@
+- - DAY 1 OVER - -
+- New package -
+Source: Berlin
+Destination: Nilreb
+- Accepted package -
+Destination: Nilreb
+- New letter -
+Source: Berlin
+Destination: Nilreb
+- Accepted letter -
+Destination: Nilreb
+- Standard transit departure -
+- Standard transit departure -
+- - DAY 2 OVER - -
+- - DAY 3 OVER - -
+- - DAY 4 OVER - -

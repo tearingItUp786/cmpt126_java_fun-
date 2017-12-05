@@ -1,0 +1,56 @@
+officesArray[forPos]
+officesArray[forPos].officeName
+officesArray[forPos].transitTime
+officesArray[forPos].postage
+officesArray[forPos].capacity
+officesArray[forPos].persuasion
+officesArray[forPos].maxPackageSize
+officesArray[forPos].writer
+officesArray[forPos].currentload
+
+pickupArray[forPos]
+pickupArray[forPos].pickupOffice
+pickupArray[forPos].person
+
+letterArray[forPos]
+letterArray[forPos].originatingOffice
+letterArray[forPos].recipient
+letterArray[forPos].destinationOffice
+letterArray[forPos].returnPickupName
+letterArray[forPos].nextAction
+letterArray[forPos].enteredSystem
+letterArray[forPos].status              // 0=inactive, 1=active, 2=accepted, 3=transit, 4=waiting
+
+packageArray[forPos] = new Package();
+packageArray[forPos].originatingOffice
+packageArray[forPos].recipient
+packageArray[forPos].destinationOffice
+packageArray[forPos].postage
+packageArray[forPos].packageLength
+packageArray[forPos].nextAction
+packageArray[forPos].enteredSystem
+packageArray[forPos].status             // 0=inactive, 1=active, 2=accepted, 3=transit, 4=waiting
+
+----------
+
+CriminalCheck(pickupArray[forPos].person, wantedArray)
+CriminalCheck(letterArray[forPos].recipient, wantedArray)
+CriminalCheck(packageArray[forPos].recipient, wantedArray)
+
+----------
+
+OfficeID(letterArray[forPos].originatingOffice, officesArray)
+OfficeID(letterArray[forPos].destinationOffice, officesArray)
+
+OfficeID(packageArray[forPos].originatingOffice, officesArray)
+OfficeID(packageArray[forPos].destinationOffice, officesArray)
+
+OfficeID(pickupArray[forPos].pickupOffice, officesArray)
+
+----------
+
+PickupCheckLetter(pickupArray[forPos].person, pickupArray[forPos].pickupOffice, letterArray, currentDay)
+PickupCheckPackage(pickupArray[forPos].person, pickupArray[forPos].pickupOffice, packageArray, currentDay)
+
+----------
+

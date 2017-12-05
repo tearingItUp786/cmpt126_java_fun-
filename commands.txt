@@ -1,0 +1,145 @@
+140
+DAY
+PACKAGE Berlin Gretel Nilreb 2000 3
+LETTER Berlin Gretel Nilreb leterG
+LETTER Calgary Ashton Vancouver Sarah
+LETTER Calgary Ashton Vancouver NONE
+LETTER Calgary Sage Vancouver Sarah
+LETTER Calgary Sage Vancouver NONE
+DAY
+DAY
+DAY
+DAY
+LETTER Taipei Kim Calgary NONE
+LETTER Taipei Kim Calgary NONE
+LETTER Taipei Kim Calgary NONE
+DAY
+DAY
+DAY
+LETTER Vancouver Jessica Taipei NONE
+DAY
+DAY
+DAY
+PICKUP Calgary Kim
+DAY
+DAY
+DAY
+DAY
+DAY
+PICKUP Taipei Jessica
+DAY
+LETTER Calgary Ashton Vancouver NONE
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+PICKUP Vancouver Ashton
+PICKUP Vancouver Sage
+DAY
+DAY
+DAY
+DAY
+PICKUP Calgary Sarah
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY
+DAY

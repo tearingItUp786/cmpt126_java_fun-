@@ -1,0 +1,5 @@
+3
+DAY
+PACKAGE Berlin Gretel Berlin 5000 1
+LETTER Berlin Gretel Berlin NONE
+

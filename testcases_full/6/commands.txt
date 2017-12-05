@@ -1,0 +1,4 @@
+2
+DAY
+PACKAGE Nilreb Gretel Berlin 5000 100
+

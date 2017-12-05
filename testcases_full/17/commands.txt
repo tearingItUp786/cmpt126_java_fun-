@@ -1,0 +1,12 @@
+11
+DAY
+PICKUP Nilreb Gretel
+PACKAGE Berlin Gretel Nilreb 200000 3
+LETTER Berlin Gretel Nilreb John
+PICKUP Berlin Gretel
+PICKUP Nilreb Gretel
+DAY
+PICKUP Nilreb Gretel
+DAY
+PICKUP Nilreb Gretel
+DAY

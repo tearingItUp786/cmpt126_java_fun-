@@ -1,0 +1,11 @@
+- - DAY 1 OVER - -
+- New package -
+Source: Berlin
+Destination: Berlin
+- Accepted package -
+Destination: Berlin
+- New letter -
+Source: Berlin
+Destination: Berlin
+- Accepted letter -
+Destination: Berlin
